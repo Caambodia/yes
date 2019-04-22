@@ -10,7 +10,7 @@ from keras.utils import to_categorical
 from keras.preprocessing.sequence import pad_sequences
 import numpy as np
 
-seed_text = 'in good time to touch his three cornered hat to the oldest of men as they passed in to'
+seed_text = 'it was nothing to her, that an innocent man was to die for the sins of'
 n_chars_to_predict = 500
 seq_length = 100
 
